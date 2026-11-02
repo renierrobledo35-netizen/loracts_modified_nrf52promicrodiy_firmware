@@ -51,3 +51,5 @@ This project is based on the open-source Meshtastic firmware. Original project: 
 
 LoRaCTS modifications are intended for academic research, development, and testing purposes.
 
+
+********** UF2 File is the firmware **********

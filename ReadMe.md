@@ -41,7 +41,9 @@ The firmware is customized for the nRF52840 ProMicro DIY hardware platform using
 
 ## Project Information
 Project Name: LoRa Communication and Tracking System (LoRaCTS)
+
 Institution: Polytechnic University of the Philippines
+
 Program: Diploma in Electronics Engineering Technology
 
 ## Acknowledgment

@@ -1,4 +1,4 @@
-# LoRaCTS Modified nRF52 ProMicro DIY Firmware
+# LoRaCTS TESTINGUPLOADDD
 
 LoRaCTS (LoRa Communication and Tracking System) is a modified Meshtastic firmware project developed for LoRa-based mesh communication and GPS-integrated messaging. 
 It is designed to support off-grid communication, emergency assistance, and location sharing without relying on cellular networks or internet connectivity for LoRa message transmission.
